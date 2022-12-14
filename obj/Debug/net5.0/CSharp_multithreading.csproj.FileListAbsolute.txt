@@ -1,0 +1,16 @@
+C:\Users\bmcca\source\repos\CSharp_multithreading\bin\Debug\net5.0\CSharp_multithreading.exe
+C:\Users\bmcca\source\repos\CSharp_multithreading\bin\Debug\net5.0\CSharp_multithreading.deps.json
+C:\Users\bmcca\source\repos\CSharp_multithreading\bin\Debug\net5.0\CSharp_multithreading.runtimeconfig.json
+C:\Users\bmcca\source\repos\CSharp_multithreading\bin\Debug\net5.0\CSharp_multithreading.runtimeconfig.dev.json
+C:\Users\bmcca\source\repos\CSharp_multithreading\bin\Debug\net5.0\CSharp_multithreading.dll
+C:\Users\bmcca\source\repos\CSharp_multithreading\bin\Debug\net5.0\ref\CSharp_multithreading.dll
+C:\Users\bmcca\source\repos\CSharp_multithreading\bin\Debug\net5.0\CSharp_multithreading.pdb
+C:\Users\bmcca\source\repos\CSharp_multithreading\obj\Debug\net5.0\CSharp_multithreading.csproj.AssemblyReference.cache
+C:\Users\bmcca\source\repos\CSharp_multithreading\obj\Debug\net5.0\CSharp_multithreading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bmcca\source\repos\CSharp_multithreading\obj\Debug\net5.0\CSharp_multithreading.AssemblyInfoInputs.cache
+C:\Users\bmcca\source\repos\CSharp_multithreading\obj\Debug\net5.0\CSharp_multithreading.AssemblyInfo.cs
+C:\Users\bmcca\source\repos\CSharp_multithreading\obj\Debug\net5.0\CSharp_multithreading.csproj.CoreCompileInputs.cache
+C:\Users\bmcca\source\repos\CSharp_multithreading\obj\Debug\net5.0\CSharp_multithreading.dll
+C:\Users\bmcca\source\repos\CSharp_multithreading\obj\Debug\net5.0\ref\CSharp_multithreading.dll
+C:\Users\bmcca\source\repos\CSharp_multithreading\obj\Debug\net5.0\CSharp_multithreading.pdb
+C:\Users\bmcca\source\repos\CSharp_multithreading\obj\Debug\net5.0\CSharp_multithreading.genruntimeconfig.cache
